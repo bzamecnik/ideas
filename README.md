@@ -14,6 +14,8 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 
 ## Table of contents
 
+### Music
+
 - [Tristan chord](tristan_chord.md)
 - [Equal temperament vs. just intonation](equal_temperament_vs_just_intonation.md)
 - [Dissonance](dissonance.md) exploration
@@ -24,3 +26,31 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Toccata & Fugue Dm in jazz form](toccata_fugue_dm_jazz.md) :)
 - [Interval-class histogram for altered dominant chord](altered_chord_ic_histogram.md)
 - [Mirror key](mirror_key.md)
+- [N-gram analysis of chord sequences](ngram_chord_analysis.md)
+- [Guitar Multi-Tuner](guitar_multi_tuner.md)
+- [Auto-correlation of pitch-class sets](pitch_class_set_autocorrelation.md)
+- [Multi-resolution representation of songs](multi_resolution_song_representation.md)
+- [Continuous pitch spaces](continuous_pitch_spaces.md)
+- [Singing as computer controller](singing_as_computer_controller.md)
+- [Vaug chord ~ ImM7 chord](augmented_vs_major_minor_chords.md)
+- [Why dominant chords get altered](why_dominant_gets_altered.md)
+- [Content-aware fill for sound or time-series](audio_content_aware_fill.md)
+- [Bilateral filtering for sound or time-series](audio_bilateral_filtering.md)
+
+### Digital signal processing
+
+- [Multi-focal time-frequency analysis](multi_focal_time_frequency_analysis.md)
+- [Reference Tuning Frequency Tracking for CQT](reference_tuning_frequency_tracking_for_cqt.md)
+
+### Physics
+
+- [Water and stone - piezoellectric effect](water_stone_piezo.md)
+
+### Image-processing
+
+- [Realistic bokeh post-processing on camera-phone images](mobile_bokehlab.md)
+
+
+### Machine learning
+
+- [Training with sparse features](training_with_sparse_features.md)
