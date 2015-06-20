@@ -14,3 +14,13 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 
 ## Table of contents
 
+- [Tristan chord](tristan_chord.md)
+- [Equal temperament vs. just intonation](equal_temperament_vs_just_intonation.md)
+- [Dissonance](dissonance.md) exploration
+- [Harmonic tone profile](harmonic_tone_profile.md)
+- [Substitutions to subdominant](substitutions_to_subdominant.md)
+- [Coloring of the chromatic circle relative to a key](key_coloring.md)
+- [Blues segmentation](blues_segmentation.md)
+- [Toccata & Fugue Dm in jazz form](toccata_fugue_dm_jazz.md) :)
+- [Interval-class histogram for altered dominant chord](altered_chord_ic_histogram.md)
+- [Mirror key](mirror_key.md)
