@@ -16,49 +16,71 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 
 ### Music
 
+- [Toccata & Fugue Dm in jazz form](toccata_fugue_dm_jazz.md) :)
+
+#### Music Theory
+
 - [Tristan chord](tristan_chord.md)
 - [Equal temperament vs. just intonation](equal_temperament_vs_just_intonation.md)
 - [Dissonance](dissonance.md) exploration
-- [Harmonic tone profile](harmonic_tone_profile.md)
 - [Substitutions to subdominant](substitutions_to_subdominant.md)
-- [Coloring of the chromatic circle relative to a key](key_coloring.md)
-- [Blues segmentation](blues_segmentation.md)
-- [Toccata & Fugue Dm in jazz form](toccata_fugue_dm_jazz.md) :)
 - [Interval-class histogram for altered dominant chord](altered_chord_ic_histogram.md)
 - [Mirror key](mirror_key.md)
+- [Continuous pitch spaces](continuous_pitch_spaces.md)
+- [Vaug chord ~ ImM7 chord](augmented_vs_major_minor_chords.md)
+- [Why dominant chords get altered](why_dominant_gets_altered.md)
+- [Properties of dissonance](dissonance_properties.md)
+- [I69 chord](i69_chord.md)
+- [VIm chord resolutions](vim_chord_resolutions.md)
+- [Blues principles](blues_principles.md)
+
+#### Music processing
+
+- [Coloring of the chromatic circle relative to a key](key_coloring.md)
+- [Key coloring on piano keyboard](key_coloring_on_piano.md)
+- [Harmonic tone profile](harmonic_tone_profile.md)
+- [Blues segmentation](blues_segmentation.md)
 - [N-gram analysis of chord sequences](ngram_chord_analysis.md)
 - [Guitar Multi-Tuner](guitar_multi_tuner.md)
 - [Auto-correlation of pitch-class sets](pitch_class_set_autocorrelation.md)
 - [Multi-resolution representation of songs](multi_resolution_song_representation.md)
-- [Continuous pitch spaces](continuous_pitch_spaces.md)
 - [Singing as computer controller](singing_as_computer_controller.md)
-- [Vaug chord ~ ImM7 chord](augmented_vs_major_minor_chords.md)
-- [Why dominant chords get altered](why_dominant_gets_altered.md)
+- [Fuzzy chord segmentation](fuzzy_chord_segmentation.md)
+- [Dynamic tuning](dynamic_tuning.md)
+- [3D-printed sound](3d_printed_sound.md)
+- [How to utilize anomaly detection in music?](anomaly_detection_in_music.md)
+- [Classify acceleration by sound](classify_acceleration_by_sound.md)
+- ["Average Blues" analysis](average_blues.md)
+
+### Digital signal processing
+
 - [Content-aware fill for sound or time-series](audio_content_aware_fill.md)
 - [Bilateral filtering for sound or time-series](audio_bilateral_filtering.md)
 - [Harmonic Tone Detection with CQT](harmonic_tone_detection_with_cqt.md)
 - [Adaptive CQT](adaptive_cqt.md)
 - [Optimal time-frequency coverage by CQT kernels](optimal_time_frequency_coverage_by_cqt_kernels.md)
-- [Properties of dissonance](dissonance_properties.md)
-- [I69 chord](i69_chord.md)
-- [VIm chord resolutions](vim_chord_resolutions.md)
-- [Fuzzy chord segmentation](fuzzy_chord_segmentation.md)
-
-### Digital signal processing
-
 - [Multi-focal time-frequency analysis](multi_focal_time_frequency_analysis.md)
 - [Reference Tuning Frequency Tracking for CQT](reference_tuning_frequency_tracking_for_cqt.md)
+- [Time-frequency plane sampling](time_frequency_plane_sampling.md)
 
 ### Image-processing
 
 - [Realistic bokeh post-processing on camera-phone images](mobile_bokehlab.md)
 
-
 ### Machine learning
 
 - [Training with sparse features](training_with_sparse_features.md)
+- [ML on chemometric data](chemometric_machine_learning.md) (from molecular sensors)
 
 ### Physics
 
 - [Water and stone - piezoellectric effect](water_stone_piezo.md)
 - [Nanotube waveguide antenna array for visible light](light_nano_antenna.md)
+
+### Natural language processing
+
+- [Declension of names to vocative case](vocative_declension.md)
+
+### Philosophy
+
+- [Tale of a tree](tale_of_a_tree.md)
