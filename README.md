@@ -10,7 +10,7 @@ In this repository I'd like to describe and share various ideas for smaller or l
 
 Some of them might turn into products, research papers and it would seemingly make sense to keep them closed. However, I admit I don't have enough energy to work on all of them and the stream of ideas is constantly flowing. I fear more that no one would benefit from such ideas. So from this point of view it makes more sense to go open-source and publish anything.
 
-So in invite everyone interested to collaborate. Eg. take an idea, turn it into a project and ping back a link via pull request. Comment via GH issues/pull requests. Or just say hello via Twitter.
+So in invite everyone interested to collaborate. Eg. take an idea, turn it into a project and ping back a link via pull request. Comment via GH issues/pull requests. Or just say hello via Twitter ([@bzamecnik](https:/twitter.com/bzamecnik)).
 
 ## Table of contents
 
@@ -36,15 +36,18 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Why dominant chords get altered](why_dominant_gets_altered.md)
 - [Content-aware fill for sound or time-series](audio_content_aware_fill.md)
 - [Bilateral filtering for sound or time-series](audio_bilateral_filtering.md)
+- [Harmonic Tone Detection with CQT](harmonic_tone_detection_with_cqt.md)
+- [Adaptive CQT](adaptive_cqt.md)
+- [Optimal time-frequency coverage by CQT kernels](optimal_time_frequency_coverage_by_cqt_kernels.md)
+- [Properties of dissonance](dissonance_properties.md)
+- [I69 chord](i69_chord.md)
+- [VIm chord resolutions](vim_chord_resolutions.md)
+- [Fuzzy chord segmentation](fuzzy_chord_segmentation.md)
 
 ### Digital signal processing
 
 - [Multi-focal time-frequency analysis](multi_focal_time_frequency_analysis.md)
 - [Reference Tuning Frequency Tracking for CQT](reference_tuning_frequency_tracking_for_cqt.md)
-
-### Physics
-
-- [Water and stone - piezoellectric effect](water_stone_piezo.md)
 
 ### Image-processing
 
@@ -54,3 +57,8 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 ### Machine learning
 
 - [Training with sparse features](training_with_sparse_features.md)
+
+### Physics
+
+- [Water and stone - piezoellectric effect](water_stone_piezo.md)
+- [Nanotube waveguide antenna array for visible light](light_nano_antenna.md)
