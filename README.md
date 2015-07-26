@@ -17,6 +17,8 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 ### Music
 
 - [Toccata & Fugue Dm in jazz form](toccata_fugue_dm_jazz.md) :)
+- [Website dedicated to Eversmiling Liberty](eversmiling_liberty_website.md)
+- [Microwave oven orchestra](microwave_oven_orchestra.md)
 
 #### Music Theory
 
@@ -29,10 +31,10 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Continuous pitch spaces](continuous_pitch_spaces.md)
 - [Vaug chord ~ ImM7 chord](augmented_vs_major_minor_chords.md)
 - [Why dominant chords get altered](why_dominant_gets_altered.md)
-- [Properties of dissonance](dissonance_properties.md)
 - [I69 chord](i69_chord.md)
 - [VIm chord resolutions](vim_chord_resolutions.md)
 - [Blues principles](blues_principles.md)
+- [Vibrato vs. tremolo](vibrato_vs_tremolo.md)
 
 #### Music processing
 
@@ -51,6 +53,9 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [How to utilize anomaly detection in music?](anomaly_detection_in_music.md)
 - [Classify acceleration by sound](classify_acceleration_by_sound.md)
 - ["Average Blues" analysis](average_blues.md)
+- [Mastering quality](mastering_quality.md)
+- [Time-pitch distribution](time_pitch_distribution.md)
+- [Room resonance](room_resonance.md)
 
 ### Digital signal processing
 
@@ -62,6 +67,17 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Multi-focal time-frequency analysis](multi_focal_time_frequency_analysis.md)
 - [Reference Tuning Frequency Tracking for CQT](reference_tuning_frequency_tracking_for_cqt.md)
 - [Time-frequency plane sampling](time_frequency_plane_sampling.md)
+- [Fractional Fourier Transform and Linear Canonical Transform for audio](audio_frft_and_lct.md)
+- [General parametrized TF transforms in Python](general_tf_transform_in_python.md)
+
+#### Audio processing (other than music)
+
+- [Bell analysis and classification](bell_classification.md)
+- [Animal sound classification](animal_sound_classification.md)
+
+### Visualization
+
+- [Time-series browser](time_series_browser.md)
 
 ### Image-processing
 
@@ -72,9 +88,13 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Training with sparse features](training_with_sparse_features.md)
 - [ML on chemometric data](chemometric_machine_learning.md) (from molecular sensors)
 
+### Computational geometry
+
+- [Spherical coordinates handbook](spherical_coordinates.md)
+
 ### Physics
 
-- [Water and stone - piezoellectric effect](water_stone_piezo.md)
+- [Water and stone - piezoelectric effect](water_stone_piezo.md)
 - [Nanotube waveguide antenna array for visible light](light_nano_antenna.md)
 
 ### Natural language processing
