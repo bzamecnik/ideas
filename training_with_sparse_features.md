@@ -7,3 +7,7 @@ How to train a machine learning model when the features have the following prope
 - eg. a histogram - discretized distribution of some random variable
 
 Typically ML algorithms accept a fixed-size set of features. However for many application a distribution of some variable might be a good feature.
+
+Possible approaches:
+
+- feature hashing

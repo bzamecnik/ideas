@@ -56,6 +56,8 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Mastering quality](mastering_quality.md)
 - [Time-pitch distribution](time_pitch_distribution.md)
 - [Room resonance](room_resonance.md)
+- [Vocal duet analysis](vocal_duet_analysis.md)
+- [Sparsity and perception](sparsity_and_perception.md)
 
 ### Digital signal processing
 
@@ -69,6 +71,7 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Time-frequency plane sampling](time_frequency_plane_sampling.md)
 - [Fractional Fourier Transform and Linear Canonical Transform for audio](audio_frft_and_lct.md)
 - [General parametrized TF transforms in Python](general_tf_transform_in_python.md)
+- [Sound microscope](sound_microscope.md)
 
 #### Audio processing (other than music)
 
@@ -82,15 +85,22 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 ### Image-processing
 
 - [Realistic bokeh post-processing on camera-phone images](mobile_bokehlab.md)
+- [TF-reassignment and optical point-spread functions](tf_reassignment_and_opticals_psfs.md)
 
 ### Machine learning
 
 - [Training with sparse features](training_with_sparse_features.md)
 - [ML on chemometric data](chemometric_machine_learning.md) (from molecular sensors)
+- [Predicting next chord in a song](next_chord_prediction.md)
+- [Detecting clogged home sewage pump](detecting_clogged_home_sewage_pump.md)
 
 ### Computational geometry
 
 - [Spherical coordinates handbook](spherical_coordinates.md)
+
+## Software engineering
+
+- [Statistically correct software performance tuning](stats_based_sw_perf_tuning.md)
 
 ### Physics
 
@@ -104,3 +114,7 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 ### Philosophy
 
 - [Tale of a tree](tale_of_a_tree.md)
+
+### Bushcraft & Survival
+
+- [Urban survival](urbal_survival.md)
