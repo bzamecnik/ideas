@@ -72,6 +72,8 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 - [Fractional Fourier Transform and Linear Canonical Transform for audio](audio_frft_and_lct.md)
 - [General parametrized TF transforms in Python](general_tf_transform_in_python.md)
 - [Sound microscope](sound_microscope.md)
+- [Soundscape sensors](soundscape_sensors.md)
+- [Dynamic compression](dynamic_compression.md)
 
 #### Audio processing (other than music)
 
