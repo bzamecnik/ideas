@@ -100,7 +100,7 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 
 - [Spherical coordinates handbook](spherical_coordinates.md)
 
-## Software engineering
+### Software engineering
 
 - [Statistically correct software performance tuning](stats_based_sw_perf_tuning.md)
 
