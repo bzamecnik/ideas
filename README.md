@@ -22,6 +22,7 @@ So in invite everyone interested to collaborate. Eg. take an idea, turn it into 
 
 #### Music Theory
 
+- [The Manifesto of Visual Music Theory](visual_music_theory_manifesto.md)
 - [Tristan chord](tristan_chord.md)
 - [Equal temperament vs. just intonation](equal_temperament_vs_just_intonation.md)
 - [Dissonance](dissonance.md) exploration
