@@ -15,3 +15,5 @@ Then we reverse the second part.
 Finally, we colorize the tones smoothly from green though yellow to red.
 
 ![](key_coloring.png)
+
+Python code: https://gist.github.com/bzamecnik/641edbe0585547e13dd4a333eb698bb8
